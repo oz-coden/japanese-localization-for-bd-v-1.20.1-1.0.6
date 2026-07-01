@@ -21,4 +21,4 @@ MinecraftのMOD「[Barbeque's Delight](https://www.curseforge.com/minecraft/mc-m
 *   翻訳の誤り、不自然な表現等を見つけた場合は、連絡いただけると助かります。
 
 ## Credits
-*   **Original Elixirs Mod:** [Barbeque's Delight](https://www.curseforge.com/minecraft/mc-mods/barbeques-delight) by [lcy0x1](https://www.curseforge.com/members/lcy0x1/)
+*   **Original Barbeque's Delight Mod:** [Barbeque's Delight](https://www.curseforge.com/minecraft/mc-mods/barbeques-delight) by [lcy0x1](https://www.curseforge.com/members/lcy0x1/)
