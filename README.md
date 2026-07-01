@@ -1,0 +1,1 @@
+# japanese-localization-for-bd-v-1.20.1-1.0.6
